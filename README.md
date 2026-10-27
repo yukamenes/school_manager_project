@@ -637,4 +637,4 @@ Be ready to tell your mentor:
 - [ ] I can explain my models and the arrows between them
 - [ ] I sent the link to Yulia :)
 
-Good luck! 🚀 If you get stuck — read the **last line** of the error, check the table above, and you can text me.
+Good luck! 🚀 If you get stuck — read the **last line** of the error, check the table above, or you can text me.
