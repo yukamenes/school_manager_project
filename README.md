@@ -635,6 +635,6 @@ Be ready to tell your mentor:
 - [ ] There is at least **one merged Pull Request**
 - [ ] `.gitignore` and `requirements.txt` are in the repository (and `venv/` and `db.sqlite3` are **not**)
 - [ ] I can explain my models and the arrows between them
-- [ ] I sent the link to my mentor
+- [ ] I sent the link to Yulia :)
 
-Good luck! 🚀 If you get stuck — read the **last line** of the error, check the table above, and write to your teacher.
+Good luck! 🚀 If you get stuck — read the **last line** of the error, check the table above, and you can text me.
